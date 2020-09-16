@@ -92,7 +92,6 @@
   align-items: center;
   width: 100%;
   height: 100vh;
-  color: #000;
   position: absolute;
   background-color: #f1f1f1de;
   z-index: 300;
@@ -112,7 +111,8 @@
 }
 
 .textCarregar>h1 {
-  font-size: 1.4rem;
+  font-size: 1.4rem;  
+  color: #59476d;
 }
 
 .textCarregar::after, .textCarregar::before {
@@ -126,15 +126,15 @@
 }
 
 .textCarregar::before {
-  border-right: 2px solid #a52828;
-  border-left: 2px solid #a52828;
+  border-right: 2px solid #370f58;
+  border-left: 2px solid #370f58;
   transform: scaleY(0);
   animation: borderX .8s ease-in-out infinite;
 }
 
 .textCarregar::after {
-  border-top: 2px solid #a52828;
-  border-bottom: 2px solid #a52828;
+  border-top: 2px solid #370f58;
+  border-bottom: 2px solid #370f58;
   transform: scaleX(0);
   animation: borderY .8s ease-in-out infinite;
 }
