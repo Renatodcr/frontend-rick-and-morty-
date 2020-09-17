@@ -15,7 +15,7 @@ function Body() {
           setDados(response.data);
           const carregando = document.querySelector('.carregando');
           carregando.classList.remove('ativo');
-        }, 2000)
+        }, 50)
 
       } catch (error) {
         console.log(error);
