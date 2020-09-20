@@ -43,7 +43,7 @@ function Body() {
                 <h2 className="name">{dado.name}</h2>
                 <div className="boxInfo">
                   <h3>Status:</h3>
-                  {dado.status === 'Alive' ? <p style={{ color: '#2e9244' }}>{dado.status}</p> :
+                  {dado.status === 'Alive' ? <p style={{ color: '#16bd3a' }}>{dado.status}</p> :
                     dado.status === 'Dead' ? <p style={{ color: '#f00' }}>{dado.status}</p> :
                       <p style={{ color: '#555' }}>{dado.status}</p>}
                 </div>
