@@ -1,4 +1,4 @@
-**Para visualizar o projeto acesse o link https://app-rick-and-morty.netlify.app/
+**Para visualizar o projeto acesse o link https://app-rick-and-morty.netlify.app/**
 
 **Back-end:** Desenvolva uma API Rest que realize uma requisição para a API 
 
