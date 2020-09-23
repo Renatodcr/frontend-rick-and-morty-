@@ -1,5 +1,7 @@
 **Para visualizar o projeto acesse o link https://app-rick-and-morty.netlify.app/**
 
+**Para visualizar a API desenvolvida neste projeto acesse o link https://backend-rick-and-morty.herokuapp.com/**
+
 **Back-end:** Desenvolva uma API Rest que realize uma requisição para a API 
 
 do Rick and Morty (https://rickandmortyapi.com/) e faça o seguinte tratamento 
